@@ -1,2 +1,2 @@
 # project-1
-god stuff resides here 
+good stuff resides here 
